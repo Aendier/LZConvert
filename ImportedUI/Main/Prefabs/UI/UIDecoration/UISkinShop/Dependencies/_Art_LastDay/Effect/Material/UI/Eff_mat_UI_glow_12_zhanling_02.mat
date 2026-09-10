@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eff_mat_UI_glow_12_zhanling_02
+  m_Shader: {fileID: 4800000, guid: 3a3487af14f5ed849880b975e464c340, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _Diss_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Main_Tex:
+        m_Texture: {fileID: 2800000, guid: 9ca5185ce908942438ff173516f4f224, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Mask_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Mask_Tex02:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Remp_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _Turb_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _AlphaCutoff: 0.5
+      _ColorMask: 15
+      _CullMode: 2
+      _Diss_Tex_EdgeWidth: 0
+      _Diss_Tex_Edge_NO: 0
+      _Diss_Tex_NO: 0
+      _Diss_Tex_Particle_ON: 0
+      _Diss_Tex_Soft_value: 0
+      _Diss_Tex_value: 0
+      _Dst: 10
+      _HDRColorFix: 0
+      _Main_Tex_A_NO_R: 0
+      _Main_Tex_Alpha: 1
+      _Main_Tex_Brightness: 1
+      _Main_Tex_Particle_Speed: 0
+      _Main_Tex_Rotator: 0
+      _Mask01RotatorFromZero_On: 0
+      _Mask02RotatorFromZero_On: 0
+      _MaskTex02On: 0
+      _Mask_Tex02_A: 0
+      _Mask_Tex02_Rotator: 0
+      _Mask_Tex_A: 0
+      _Mask_Tex_NO: 0
+      _Mask_Tex_Rotator: 0
+      _RotatorFromZero_On: 0
+      _Src: 5
+      _Stencil: 0
+      _StencilComp: 8
+      _StencilOp: 0
+      _StencilReadMask: 0
+      _StencilRef: 0
+      _StencilTest: 0
+      _StencilWriteMask: 0
+      _Tex_2_A_NO_R: 0
+      _Tex_2_NO: 0
+      _Turb_Diss_Value: 0
+      _Turb_MainTex_ON: 0
+      _Turb_Main_Value: 0
+      _Turb_Mask_Value: 0
+      _Turb_Noise_Polar_ON: 0
+      _Turb_RempTex_Value: 0
+      _Turb_Tex_ON: 0
+      _UseUITex: 0
+      _ZTest: 4
+    m_Colors:
+      _Diss_Tex_EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+      _Diss_Tex_UV: {r: 0, g: 0, b: 0, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _Main_Tex_Color: {r: 1, g: 1, b: 1, a: 1}
+      _Main_Tex_UV: {r: 0, g: 0, b: 0, a: 0}
+      _Mask_Tex02_UV: {r: 0, g: 0, b: 0, a: 0}
+      _Mask_Tex_UV: {r: 0, g: 0, b: 0, a: 0}
+      _Remp_Tex_UV: {r: 0, g: 0, b: 0, a: 0}
+      _Turb_Tex_UV: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
