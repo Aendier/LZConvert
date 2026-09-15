@@ -1,8 +1,12 @@
 Prefab: D:\Project\UnityProject\Lz\Assets\Main\Prefabs\UI\UISkinBox\UISkinChoiceChestHeroCell.prefab
-Copied: 341
+Copied: 214
 Converted TMP: 112
 Converted NewButton: 31
 Mapped TMP fonts: 112
 Removed scripts: 56
-Missing GUID: 594
-Conflicts: 3
+Missing GUID: 2
+Conflicts: 1
+
+Missing GUID values:
+2f56315d7dcebc4c4a63fc2745da7807
+e1c5d5eb255236148a792ac0d60890fb
