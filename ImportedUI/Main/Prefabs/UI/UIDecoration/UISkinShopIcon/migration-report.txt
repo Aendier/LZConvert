@@ -1,0 +1,12 @@
+Prefab: D:\Project\UnityProject\Lz\Assets\Main\Prefabs\UI\UIDecoration\UISkinShopIcon.prefab
+Copied: 67
+Converted TMP: 4
+Converted NewButton: 1
+Mapped TMP fonts: 4
+Removed scripts: 1
+Missing GUID: 2
+Conflicts: 0
+
+Missing GUID values:
+2f56315d7dcebc4c4a63fc2745da7807
+e1c5d5eb255236148a792ac0d60890fb
