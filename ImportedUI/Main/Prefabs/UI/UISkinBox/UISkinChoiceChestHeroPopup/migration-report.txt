@@ -1,0 +1,8 @@
+Prefab: D:\Project\UnityProject\Lz\Assets\Main\Prefabs\UI\UISkinBox\UISkinChoiceChestHeroPopup.prefab
+Copied: 435
+Converted TMP: 136
+Converted NewButton: 47
+Mapped TMP fonts: 136
+Removed scripts: 76
+Missing GUID: 760
+Conflicts: 3

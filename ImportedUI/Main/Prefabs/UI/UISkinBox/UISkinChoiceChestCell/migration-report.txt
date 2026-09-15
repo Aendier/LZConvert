@@ -1,0 +1,8 @@
+Prefab: D:\Project\UnityProject\Lz\Assets\Main\Prefabs\UI\UISkinBox\UISkinChoiceChestCell.prefab
+Copied: 262
+Converted TMP: 106
+Converted NewButton: 27
+Mapped TMP fonts: 106
+Removed scripts: 50
+Missing GUID: 545
+Conflicts: 3

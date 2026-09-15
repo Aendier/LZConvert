@@ -1,0 +1,8 @@
+Prefab: D:\Project\UnityProject\Lz\Assets\Main\Prefabs\UI\UISkinBox\UISkinChoiceChestPopup.prefab
+Copied: 493
+Converted TMP: 143
+Converted NewButton: 51
+Mapped TMP fonts: 143
+Removed scripts: 78
+Missing GUID: 789
+Conflicts: 3
